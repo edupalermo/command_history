@@ -1,0 +1,4 @@
+update-java-alternatives --list
+sudo update-java-alternatives --set /path/to/java/version
+
+sudo dpkg -i google-chrome-stable_current_amd64.deb
